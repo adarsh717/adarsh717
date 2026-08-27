@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adarsh Yadav
+# Hi, I'm Adarsh Yadav
 
 ### Android Developer | Kotlin & Java | Data Structures & Algorithms
 
@@ -8,19 +8,19 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-* 📱 Focused on **Android Development**
-* 💻 Strong interest in **Java & Kotlin**
-* 🧠 Actively practicing **Data Structures & Algorithms**
-* 🔥 Working with **Firebase & REST APIs**
-* 🗄️ Learning **Databases, Backend & System Design**
-* 🚀 Building projects to gain real-world development experience
-* 🎯 Preparing for **Software Engineering opportunities**
+*  Focused on **Android Development**
+*  Strong interest in **Java & Kotlin**
+*  Actively practicing **Data Structures & Algorithms**
+*  Working with **Firebase & REST APIs**
+*  Learning **Databases, Backend & System Design**
+*  Building projects to gain real-world development experience
+*  Preparing for **Software Engineering opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -46,7 +46,7 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 💬 Anonymous Chat App
 
@@ -103,12 +103,6 @@ I'm actively improving my problem-solving skills through consistent DSA practice
 * Two Pointers
 * Sliding Window
 * Binary Search
-* Recursion
-* Linked Lists
-* Stack & Queue
-* Trees
-* Graphs
-* Dynamic Programming
 
 ### Problem Solving
 
